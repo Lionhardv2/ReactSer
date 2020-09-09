@@ -1,0 +1,45 @@
+.padd {
+	/* justify-content: space-between; */
+	margin-top: 10em;
+	height: 2em;
+}
+.ancho {
+	width: 100vw;
+}
+.back {
+	background-color: yellow;
+}
+.altura {
+	height: 85vh;
+	z-index: 100;
+}
+.padd2 {
+	/* justify-content: space-between; */
+	height: 2vh;
+	width: 80vw;
+	padding-top: 12em;
+	/* background-color: aquamarine; */
+}
+.opcion1 {
+	height: 18em;
+	width: 25vw;
+	/* background-color: blue; */
+}
+
+.tab {
+	margin-left: 40px;
+}
+.HEAD {
+	height: 150px;
+}
+
+.imagen {
+	width: 2em;
+}
+.MV {
+	position: fixed;
+	z-index: 100;
+}
+.BGC {
+	background-color: #ffb105;
+}
